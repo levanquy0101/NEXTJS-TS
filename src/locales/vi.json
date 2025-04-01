@@ -1,0 +1,11 @@
+{
+  "welcomeMessage": "Chào mừng bạn đến với ứng dụng của chúng tôi!",
+  "logoutButton": "Đăng xuất",
+  "settings": "Cài đặt",
+  "profile": "Hồ sơ",
+  "searchPlaceholder": "Tìm kiếm...",
+  "submitButton": "Gửi đi",
+  "cancelButton": "Hủy bỏ",
+  "deleteConfirmation": "Bạn có chắc chắn muốn xóa mục này không?",
+  "errorMessage": "Đã xảy ra lỗi. Vui lòng thử lại."
+}

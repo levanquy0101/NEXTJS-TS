@@ -1,8 +1,14 @@
+import { t } from "@/lang";
+import { LangChange } from "@/lang/LangChange";
 
 export default function Home() {
   return (
     <main>
-      <h2>Đây là trang chủ</h2>
+      <div>
+        <h1>{t("welcomeMessage")}</h1>
+        <button>{t("logoutButton")}</button>
+        <LangChange />
+      </div>
     </main>
   );
 }

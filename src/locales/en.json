@@ -1,0 +1,11 @@
+{
+  "welcomeMessage": "Welcome to our application!",
+  "logoutButton": "Logout",
+  "settings": "Settings",
+  "profile": "Profile",
+  "searchPlaceholder": "Search...",
+  "submitButton": "Submit",
+  "cancelButton": "Cancel",
+  "deleteConfirmation": "Are you sure you want to delete this item?",
+  "errorMessage": "An error occurred. Please try again."
+}
